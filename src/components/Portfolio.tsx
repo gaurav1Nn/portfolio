@@ -58,7 +58,7 @@ const Projects: React.FC = () => {
       link: 'https://sui-split.vercel.app/',
       github: 'https://github.com/gaurav1Nn/suisplit',
       featured: true,
-      award: 'ETHSF Hackathon Winner'
+      award: ''
     },
     {
       title: 'Medisen',
