@@ -380,15 +380,16 @@ const Contact: React.FC = () => {
               </div>
               
               <div className="flex items-center space-x-4">
-                <div className="p-3 bg-black text-white rounded-lg">
-                  <Phone size={24} />
-                </div>
-                <div>
+                {/* <div className="p-3 bg-black text-white rounded-lg">
+                  {/* <Phone size={24} /> }
+                </div> */}
+                
+                {/* <div>
                   <p className="font-medium">Phone</p>
                   <a href="tel:+919922874715" className="text-gray-600 hover:text-black transition-colors">
                     +91-9922874715
                   </a>
-                </div>
+                </div> */}
               </div>
               
               <div className="flex items-center space-x-4">
