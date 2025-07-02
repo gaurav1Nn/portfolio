@@ -9,7 +9,7 @@ const About: React.FC = () => {
 
   useEffect(() => {
     const stats = [
-      { number: 300, suffix: '+', label: 'LeetCode Problems' },
+      { number: 400, suffix: '+', label: 'LeetCode Problems' },
       { number: 8.23, suffix: '', label: 'CGPA' },
       { number: 3, suffix: '', label: 'Major Projects' },
       { number: 2000, suffix: '$', label: 'Hackathon Prize' }
